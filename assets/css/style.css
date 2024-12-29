@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(108, 176, 236, 0.4); 
+  border: 6px solid #3982be; 
   border-radius: 50% !important;
 }
 
@@ -27,7 +27,9 @@
   bottom: 0; 
   right: 0;
 }
-
+/* <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet"> */
 @import url(https://fonts.googleapis.com/css?family=Poiret+One);
 .social {
   margin: 0 auto;
@@ -85,7 +87,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #47bad6;
+  color: #2c4a79;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -140,7 +142,7 @@ body {
 } */
 
 a {
-  color: #6698e3;
+  color: #2e353e;
 }
 
 /* main blockqoute */
@@ -320,7 +322,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: url(../../assets/img/premium_photo-1661775756810-82dbd209fc95.avif) no-repeat top center/cover; 
   position: relative;
 }
 
@@ -348,7 +350,7 @@ h3 {
 }
 
 #intro.section .underline {
-  border-bottom: 5px solid #24305e;
+  border-bottom: 5px solid #242f5e;
 }
 
 #intro.section .teal {
@@ -393,7 +395,7 @@ h3 {
 }
 
 .card .card-content {
-  padding-bottom: 30px;
+  padding-bottom: 10px;
 }
 
 .card .card-content p {
@@ -549,7 +551,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: #1e598a !important;
 }
 
 /* .teal-text {
@@ -559,7 +561,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #67abdc !important;
+  background-color: #1e598a !important;
 }
 
 /* .teal {
@@ -602,7 +604,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #009688;
+    color: #1e598a;
     height: 56px;
     line-height: 56px;
   }
