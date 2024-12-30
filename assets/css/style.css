@@ -21,7 +21,6 @@
 }
 
 .tracker {
-  /* visibility: hidden; */
   position: fixed;
   /* margin-inline-end: auto;  */
   bottom: 0; 
