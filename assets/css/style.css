@@ -141,8 +141,8 @@ a {
 } */
 
 blockquote {
-  border-left: 5px solid #795548;
-  color: #795548;
+  border-left: 5px solid #7526b9;
+  color: #03245c;
   font-size: 125%;
   font-weight: 400;
   margin: 20px 0;
@@ -459,7 +459,7 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #004d40 !important;
+  border-bottom: 3px solid #0003b6 !important;
 }
 
 #skills .card.large {
