@@ -280,6 +280,12 @@ li.logo span {
   width: 95%;
 }
 
+#experience .container {
+  width: 100%;
+  max-width: none;
+  padding: 0 2%;
+}
+
 h3 {
   font-weight: 200;
   margin-bottom: 60px;
@@ -554,7 +560,9 @@ small {
 
 @media (min-width: 1200px) {
   #experience .container {
-    width: 860px;
+    width: 100%;
+    max-width: none;
+    padding: 0 2%;
   }
 }
 
