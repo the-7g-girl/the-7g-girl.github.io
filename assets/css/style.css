@@ -277,11 +277,11 @@ li.logo span {
 }
 
 .container {
-  width: 95%;
+  width: 85%;
 }
 
 #experience .container {
-  width: 100%;
+  width: 80%;
   max-width: none;
   padding: 0 2%;
 }
