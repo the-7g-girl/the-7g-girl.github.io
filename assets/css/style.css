@@ -162,7 +162,7 @@ blockquote * {
 
 nav {
   background: white;
-  box-shadow: none;
+  /* box-shadow: none; */
   height: 0;
 }
 
@@ -336,7 +336,7 @@ h3 {
   /* font-weight: 400; */
   line-height: 150%;
   /* padding: 0 0px; */
-  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  /* text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5); */
 }
 
 #intro.section .underline {
